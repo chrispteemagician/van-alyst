@@ -1,0 +1,5 @@
+{
+  "name": "Van-alyst Vehicle Inspector",
+  "description": "An AI-powered vehicle inspector that analyzes campervan listings and MOT histories to protect you from buying a lemon. Paste in the seller's description and the official MOT history, and get an expert analysis in seconds.",
+  "requestFramePermissions": []
+}
